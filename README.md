@@ -1,4 +1,4 @@
-![UPADRASTA HARSHA VARDHAN](https://github.com/upadrastaharshavardhan/upadrastaharshavardhan/blob/main/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.webp)
+![UPADRASTA HARSHA VARDHAN](https://github.com/upadrastaharshavardhan/upadrastaharshavardhan/blob/main/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster%20(1).webp)
 
 <h2>Hey there! I'm HARSHA</h2>
 
