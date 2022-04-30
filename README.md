@@ -1,4 +1,4 @@
-![UPADRASTA HARSHA VARDHAN]()
+![UPADRASTA HARSHA VARDHAN](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm HARSHA</h2>
 
@@ -44,20 +44,21 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/upadrastaharshavardhan">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=upadrastaharshavardhanshow_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=upadrastaharshavardhan
+layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.Upadrasta Harsha.com"><img src="https://img.shields.io/badge/-harsha.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="upadrastaharsha09@gmail.com"><img src="https://img.shields.io/badge/-harsha.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/harsha-upadrasta-a33a461a2"><img src="https://img.shields.io/badge/-harsha%20vardhan%20upadrasta-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:upadrastaharsha09@gmail.com"><img src="https://img.shields.io/badge/-harsha mail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/upadrasta_harsha_?igshid=YmMyMTA2M2Y=_"><img src="https://img.shields.io/badge/-harsha__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/pasyanth.updrasta"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.facebook.com/pasyanth.updrasta"><img src="https://img.shields.io/badge/-@HARSHA-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
 -----
