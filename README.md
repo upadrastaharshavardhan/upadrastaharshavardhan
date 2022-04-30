@@ -1,6 +1,6 @@
-![UPADRASTA HARSHA VARDHAN](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammer&psig=AOvVaw0njPhSnRvSwQuarsGD5KU_&ust=1651411212195000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCOiYwajwu_cCFQAAAAAdAAAAABAJ)
+![UPADRASTA HARSHA VARDHAN](https://www.google.com/urlsa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammer&psig=AOvVaw0njPhSnRvSwQuarsGD5KU_&ust=1651411212195000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCOiYwajwu_cCFQAAAAAdAAAAABAJ)
 
-<img alt="Night Coding" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.sithcomputers.com%2Fcourses%2Ffull-stack-development-course%2F&psig=AOvVaw0njPhSnRvSwQuarsGD5KU_&ust=1651411212195000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCOiYwajwu_cCFQAAAAAdAAAAABAO" width='40' align="left"/><h2>Hey there! I'm HARSHA</h2>
+<img     alt="NightCoding"src="https://www.google.com/urlsa=i&url=https%3A%2F%2Fwww.sithcomputers.com%2Fcourses%2Ffullstackdevelopmentcourse%2F&psig=AOvVaw0njPhSnRvSwQuarsGD5KU_&ust=1651411212195000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCOiYwajwu_cCFQAAAAAdAAAAABAO" width='40' align="left"/><h2>Hey there! I'm HARSHA</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm HARSHA VARDHAN -->
 
@@ -41,15 +41,6 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/upadrastaharshavardhan">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=upadrastaharshavardhanshow_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=upadrastaharshavardhan
-layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
