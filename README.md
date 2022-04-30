@@ -4,7 +4,7 @@
 
 <!-- ## 👋 &nbsp;Hey there! I'm HARSHA VARDHAN -->
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;About Me 
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Computer Science and engineering.\
