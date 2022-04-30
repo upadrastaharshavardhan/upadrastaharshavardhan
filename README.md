@@ -1,6 +1,6 @@
-![UPADRASTA HARSHA VARDHAN](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
+![UPADRASTA HARSHA VARDHAN](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammer&psig=AOvVaw0njPhSnRvSwQuarsGD5KU_&ust=1651411212195000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCOiYwajwu_cCFQAAAAAdAAAAABAJ)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm HARSHA</h2>
+<img alt="Night Coding" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.sithcomputers.com%2Fcourses%2Ffull-stack-development-course%2F&psig=AOvVaw0njPhSnRvSwQuarsGD5KU_&ust=1651411212195000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCOiYwajwu_cCFQAAAAAdAAAAABAO" width='40' align="left"/><h2>Hey there! I'm HARSHA</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm HARSHA VARDHAN -->
 
@@ -54,7 +54,6 @@ layout=compact&langs_count=8&theme=algolia"/>
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="upadrastaharsha09@gmail.com"><img src="https://img.shields.io/badge/-harsha.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/harsha-upadrasta-a33a461a2"><img src="https://img.shields.io/badge/-harsha%20vardhan%20upadrasta-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:upadrastaharsha09@gmail.com"><img src="https://img.shields.io/badge/-harsha mail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/upadrasta_harsha_?igshid=YmMyMTA2M2Y=_"><img src="https://img.shields.io/badge/-harsha__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
