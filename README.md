@@ -1,4 +1,4 @@
-![UPADRASTA HARSHA VARDHAN](https://www.google.com/urlsa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammer&psig=AOvVaw0njPhSnRvSwQuarsGD5KU_&ust=1651411212195000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCOiYwajwu_cCFQAAAAAdAAAAABAJ)
+![UPADRASTA HARSHA VARDHAN](https://github.com/upadrastaharshavardhan/upadrastaharshavardhan/blob/main/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.webp)
 
 <img     alt="NightCoding"src="https://www.google.com/urlsa=i&url=https%3A%2F%2Fwww.sithcomputers.com%2Fcourses%2Ffullstackdevelopmentcourse%2F&psig=AOvVaw0njPhSnRvSwQuarsGD5KU_&ust=1651411212195000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCOiYwajwu_cCFQAAAAAdAAAAABAO" width='40' align="left"/><h2>Hey there! I'm HARSHA</h2>
 
