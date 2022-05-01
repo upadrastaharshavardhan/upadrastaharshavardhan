@@ -45,6 +45,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
+   <a class="header-badge" target="_blank" href="https://twitter.com/HarshaUpadrasta"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Harsha?style=social"></a>
 <a href="https://www.linkedin.com/in/harsha-upadrasta-a33a461a2"><img src="https://img.shields.io/badge/-harsha%20vardhan%20upadrasta-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:upadrastaharsha09@gmail.com"><img src="https://img.shields.io/badge/-harsha mail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/upadrasta_harsha_?igshid=YmMyMTA2M2Y=_"><img src="https://img.shields.io/badge/-harsha__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
