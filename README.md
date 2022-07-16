@@ -14,6 +14,9 @@
 💬 &nbsp;Feel free to reach out to me and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at upadrastaharsha09@gmail.com I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1yahcjDI9pnEIHdbHIC66FKAwrgj6UisY/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
+🔥🔥🔥🔥🔥these are my important education projects🔥🔥🔥🔥🔥🔥<br>
+😉want to crack job use this website [vidya4u](https://sites.google.com/view/vidya4u/home?authuser=0) <br>
+😁 this is for you my friend [vidya4u-pro](https://upadrastaharshavardhan.github.io/vidya4u/index.html) <br>
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -53,12 +56,6 @@
 <a href="https://www.facebook.com/pasyanth.updrasta"><img src="https://img.shields.io/badge/-@HARSHA-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
  
------
-🔥🔥🔥🔥🔥these are my important education projects🔥🔥🔥🔥🔥🔥<br>
 
-😉want to crack job use this website [vidya4u](https://sites.google.com/view/vidya4u/home?authuser=0) <br>
-
---------------------------------------------------------------<br>
-😁 this is for you my friend [vidya4u-pro](https://upadrastaharshavardhan.github.io/vidya4u/index.html) <br>
 
 Credits: [HARSHA VARDHAN UPADRASTA](https://github.com/upadrastaharshavardhan)
