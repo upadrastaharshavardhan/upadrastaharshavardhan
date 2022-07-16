@@ -55,8 +55,10 @@
  
 -----
 🔥🔥🔥🔥🔥these are my important education projects🔥🔥🔥🔥🔥🔥<br>
-😉want to crack job use this website src="byrl.me/vidya4u" <br>
+
+😉want to crack job use this website [vidya4u](byrl.me/vidya4u) <br>
+
 --------------------------------------------------------------<br>
-😁 this is for you my friend src="byrl.me/vidya4upro" <br>
+😁 this is for you my friend [vidya4u-pro](byrl.me/vidya4upro) <br>
 
 Credits: [HARSHA VARDHAN UPADRASTA](https://github.com/upadrastaharshavardhan)
