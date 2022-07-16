@@ -1,7 +1,7 @@
 ![UPADRASTA HARSHA VARDHAN](https://github.com/upadrastaharshavardhan/upadrastaharshavardhan/blob/main/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster%20(1).webp)
 
 <h2>Hey there! I'm HARSHA </h2>
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+
 
 <!-- ## 👋 &nbsp;Hey there! I'm HARSHA VARDHAN -->
 
