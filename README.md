@@ -17,6 +17,7 @@
 🔥🔥🔥🔥🔥These are my important education projects🔥🔥🔥🔥🔥🔥<br>
 😉want to crack job use this website [vidya4u](https://sites.google.com/view/vidya4u/home?authuser=0) <br>
 😁 this is for you my friend [vidya4u-pro](https://upadrastaharshavardhan.github.io/vidya4u/index.html) <br>
+❤️[My Blogs](https://tinyurl.com/Harshablogs) <br>
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
