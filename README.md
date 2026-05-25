@@ -1,62 +1,156 @@
-![UPADRASTA HARSHA VARDHAN](https://github.com/upadrastaharshavardhan/upadrastaharshavardhan/blob/main/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster%20(1).webp)
-
-<h2>Hey there! I'm HARSHA </h2>
-
-
-<!-- ## 👋 &nbsp;Hey there! I'm HARSHA VARDHAN -->
-
-### 👨🏻‍💻 &nbsp;[About Me](https://upadrastaharshavardhan.github.io/Harshavardhan/index.html)
-
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and engineering.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at upadrastaharsha09@gmail.com I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1I7bdoU5vN8X1929RG868hIZ28aY8M1wV/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!<br>
-🔥🔥🔥🔥🔥These are my important education projects🔥🔥🔥🔥🔥🔥<br>
-😉want to crack job use this website [vidya4u](https://sites.google.com/view/vidya4u/home?authuser=0) <br>
-😁 this is for you my friend [vidya4u-pro](https://upadrastaharshavardhan.github.io/vidya4u/index.html) <br>
-❤️[My Blogs](https://tinyurl.com/Harshablogs) <br>
-
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
-### 🛠 &nbsp;Tech Stack
-
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp; 
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
-
-
-### 🤝🏻 &nbsp;Connect with Me
+<!-- ===================== HEADER ===================== -->
+<h1 align="center">🚀 UPADRASTA HARSHA VARDHAN</h1>
+<h3 align="center">⚡ AI Automation QA Engineer | GenAI Builder | Full-Stack Developer | Founder</h3>
 
 <p align="center">
-   <a class="header-badge" target="_blank" href="https://twitter.com/HarshaUpadrasta"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Harsha?style=social"></a>
-<a href="https://www.linkedin.com/in/harsha-upadrasta-a33a461a2"><img src="https://img.shields.io/badge/-harsha%20vardhan%20upadrasta-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:upadrastaharsha09@gmail.com"><img src="https://img.shields.io/badge/-harsha mail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/upadrasta_harsha_?igshid=YmMyMTA2M2Y=_"><img src="https://img.shields.io/badge/-harsha__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/pasyanth.updrasta"><img src="https://img.shields.io/badge/-@HARSHA-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+AI+Agents+for+Real+World;GenAI+%7C+Automation+%7C+Cloud+%7C+DevOps;Turning+Ideas+into+Scalable+Systems;AI+that+works+alongside+Engineers" />
 </p>
- 
 
+---
 
-Credits: [HARSHA VARDHAN UPADRASTA](https://github.com/upadrastaharshavardhan)
+<!-- ===================== HERO IMAGE ===================== -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="400"/>
+</p>
+
+---
+
+# 👋 About Me
+
+💡 I build **AI-powered systems** that automate testing, accelerate development, and improve engineering productivity.
+
+🎯 Currently working as:
+- 🧠 **AI Automation QA Engineer (Assistant Manager)**
+- 🤖 **GenAI + AI Agent Builder**
+- ⚙️ **CI/CD + DevOps Automation Specialist**
+
+📍 Based in India | 🌍 Building global-level AI solutions
+
+---
+
+# 🔥 My Impact (Real Numbers)
+
+🚀 Reduced manual testing effort by **60%**  
+⚡ Improved regression coverage by **55%**  
+🧪 Cut release validation time by **45%**  
+🐞 Reduced production defects by **30%**
+
+---
+
+# 🤖 AI & GenAI Expertise
+
+✔️ LLMs: GPT | Claude | Gemini  
+✔️ Prompt Engineering & Optimization  
+✔️ RAG (Retrieval-Augmented Generation)  
+✔️ AI Agent Development (Azure OpenAI, Copilot Studio)  
+✔️ Conversational Testing Systems  
+✔️ AI-driven Test Automation  
+
+---
+
+# 🚀 Featured AI Projects
+
+### 🧪 AI Test Case Generation Agent
+- Converts user stories → automated test cases
+- Integrated with Azure DevOps
+- ⚡ 60% faster testing
+
+---
+
+### 📊 MongoDB AI Query Agent
+- Natural language → database queries
+- Used by non-technical stakeholders
+- Includes performance optimization
+
+---
+
+### 🌐 API Creation Agent
+- Generates full APIs from plain English
+- Includes:
+  - Security policies
+  - Traffic control
+- ⚡ Days → Hours transformation
+
+---
+
+### 📄 Doc → Test Automation Agent
+- Converts documentation → automation scripts
+- Uses RAG for context awareness
+
+---
+
+# 🧠 Tech Stack
+
+### 👨‍💻 Languages
+![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript)
+![Java](https://img.shields.io/badge/Java-111?style=for-the-badge&logo=java)
+
+### 🤖 AI / ML
+![OpenAI](https://img.shields.io/badge/OpenAI-111?style=for-the-badge)
+![Azure OpenAI](https://img.shields.io/badge/Azure%20AI-111?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-111?style=for-the-badge)
+
+### ⚙️ Backend & Frameworks
+![FastAPI](https://img.shields.io/badge/FastAPI-111?style=for-the-badge)
+![Django](https://img.shields.io/badge/Django-111?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-111?style=for-the-badge)
+
+### 🧪 Testing
+![PyTest](https://img.shields.io/badge/PyTest-111?style=for-the-badge)
+![Playwright](https://img.shields.io/badge/Playwright-111?style=for-the-badge)
+![BDD](https://img.shields.io/badge/BDD-111?style=for-the-badge)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-111?style=for-the-badge)
+![Azure](https://img.shields.io/badge/Azure-111?style=for-the-badge)
+![Jenkins](https://img.shields.io/badge/Jenkins-111?style=for-the-badge)
+
+---
+
+# 🏗️ My Platforms
+
+🚀 **Insight Trove** → AI Learning Platform  
+💍 **Rutvik** → Purohit Booking Platform  
+🎓 **Vidya4U** → Learning + Job Prep Ecosystem  
+
+---
+
+# 🌱 Currently Learning
+
+- 🧠 Advanced Agentic AI Systems  
+- ☁️ Scalable Cloud Architectures  
+- ⚙️ System Design for AI Platforms  
+- 🔐 AI + Cybersecurity  
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=upadrastaharshavardhan&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=upadrastaharshavardhan&theme=tokyonight"/>
+</p>
+
+---
+
+# 🧠 Quote I Follow
+
+> "AI won’t replace engineers.  
+> Engineers who use AI will replace those who don’t."
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+<a href="mailto:upadrastaharsha09@gmail.com">📧 Email</a> •
+<a href="https://www.linkedin.com/in/harsha-upadrasta-a33a461a2">💼 LinkedIn</a> •
+<a href="https://github.com/upadrastaharshavardhan">🐙 GitHub</a> •
+<a href="https://upadrastaharshavardhan.github.io/Harshavardhan/index.html">🌐 Portfolio</a>
+</p>
+
+---
+
+<!-- ===================== FOOTER ===================== -->
+<p align="center">🔥 Built with passion for AI, Automation & Innovation 🔥</p>
