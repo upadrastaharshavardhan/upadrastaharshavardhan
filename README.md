@@ -196,14 +196,21 @@ Status   : 🟢 Open to collaborations & AI projects
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=upadrastaharshavardhan&show_icons=true&theme=transparent&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=8899aa&bg_color=020408"/>
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=upadrastaharshavardhan&theme=transparent&hide_border=true&ring=00d4ff&fire=f0a500&currStreakLabel=00d4ff&sideLabels=8899aa&dates=445566&background=020408"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=upadrastaharshavardhan&show_icons=true&theme=tokyonight&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=8899aa&bg_color=0d1117&rank_icon=github&include_all_commits=true&count_private=true"/>
+&nbsp;&nbsp;
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=upadrastaharshavardhan&layout=compact&theme=tokyonight&hide_border=true&title_color=00d4ff&text_color=8899aa&bg_color=0d1117&langs_count=8"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=upadrastaharshavardhan&theme=react-dark&hide_border=true&bg_color=020408&color=00d4ff&line=7c3aed&point=f0a500&area=true&area_color=00d4ff"/>
+<img src="https://streak-stats.demolab.com?user=upadrastaharshavardhan&theme=tokyonight&hide_border=true&ring=00d4ff&fire=f0a500&currStreakLabel=00d4ff&sideLabels=8899aa&dates=445566&background=0d1117&stroke=1a1f2e"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=upadrastaharshavardhan&theme=tokyo-night&hide_border=true&area=true&point=f0a500&line=7c3aed&color=00d4ff"/>
 
 </div>
 
