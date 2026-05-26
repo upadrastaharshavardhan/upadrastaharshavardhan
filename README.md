@@ -196,9 +196,9 @@ Status   : 🟢 Open to collaborations & AI projects
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=upadrastaharshavardhan&show_icons=true&theme=tokyonight&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=8899aa&bg_color=0d1117&rank_icon=github&include_all_commits=true&count_private=true"/>
-&nbsp;&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=upadrastaharshavardhan&layout=compact&theme=tokyonight&hide_border=true&title_color=00d4ff&text_color=8899aa&bg_color=0d1117&langs_count=8"/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=upadrastaharshavardhan&theme=tokyonight"/>
+&nbsp;
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=upadrastaharshavardhan&theme=tokyonight"/>
 
 </div>
 
