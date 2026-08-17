@@ -105,6 +105,46 @@ Over the past year I've been building out a full **AI-native Quality Engineering
 
 </details>
 
+<details>
+<summary><b>🔥 ForgeLM</b> — Local AI Fine-Tuning & Model Intelligence Workbench</summary>
+<br>
+
+> A **local-first AI model experimentation and intelligence workbench** that turns small-language-model fine-tuning into a complete, observable lifecycle — from dataset preparation and LoRA/QLoRA training to evaluation, local serving, interactive chat, training analytics, embedding visualization, weight-delta inspection, and runtime monitoring.
+
+* ✅ **100% Local-first AI workflow** — no cloud account required for the core experimentation workflow
+* ✅ Fine-tune small causal language models using **LoRA / QLoRA-style 4-bit loading**
+* ✅ Supports **CPU and GPU training** with configurable training workflows
+* ✅ Supports **GPT-2, TinyLlama, and custom causal language models**
+* ✅ Training lifecycle: **Dataset → Fine-Tuning → Evaluation → Run Artifacts → Adapter → Local API → Interactive Chat**
+* ✅ Train/evaluation loss tracking with **held-out evaluation and early stopping**
+* ✅ Checkpoint generation and preservation of reproducible training artifacts
+* ✅ Local **FastAPI model server** with an **OpenAI-compatible API**
+* ✅ Browser-based zero-build dashboard for **Chat, Training, Atlas, and Runtime**
+* ✅ Live inference visibility including **token/sec and latency monitoring**
+* ✅ **Embedding Atlas** for visual exploration of learned representations
+* ✅ **LoRA weight-delta visualization** to inspect what training changed
+* ✅ Runtime observability covering **CPU, RAM, VRAM, requests, latency, and inference behavior**
+* ✅ Complete training-run artifact model containing adapters, checkpoints, configuration, loss history, embeddings, and weight changes
+* ✅ Designed to answer not only **"Did the model train?"** but also **"What did the model learn?", "What changed?", and "How is the model behaving at runtime?"**
+* ✅ GitHub Pages-ready browser interface with `index.html` as the entry point
+* ✅ Includes reproducible execution/run artifacts and detailed technical documentation
+* ✅ Architecture deliberately separates **Trainer → Trained Artifacts → Local API Server → Interactive UI**
+* ✅ Turns traditional `Dataset → Training → Model File` workflows into an **inspectable Model Intelligence lifecycle**
+
+**Core Pipeline:**
+
+`DATASET → FINE-TUNING → EVALUATION → RUN ARTIFACTS → ADAPTER → LOCAL API → CHAT → ANALYTICS → EMBEDDING ATLAS → WEIGHT DELTAS → RUNTIME MONITORING`
+
+**Architecture:** `Trainer` → `LoRA / QLoRA` → `Trained Artifacts` → `FastAPI Server` → `OpenAI-Compatible API` → `ForgeLM Dashboard`
+
+**Stack:** `Python` `FastAPI` `PyTorch` `Transformers` `LoRA / QLoRA` `Causal Language Models` `OpenAI-Compatible API` `HTML/JavaScript`
+
+**Project:** ForgeLM — Local AI Fine-Tuning & Model Intelligence Workbench
+
+**Repository:** [ForgeLM on GitHub](https://github.com/upadrastaharshavardhan/ForgeLM?utm_source=chatgpt.com)
+
+</details>
+
 
 <details>
 <summary><b>🖥️ PAIOS — Playwright AI Operating System</b> — an OS for Quality Engineering</summary>
