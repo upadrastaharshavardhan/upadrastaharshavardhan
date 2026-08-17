@@ -245,7 +245,7 @@ Over the past year I've been building out a full **AI-native Quality Engineering
 
 ---
 
-## 🚀 Other AI Automation Work (VOIS / Enterprise)
+## 🚀 Other AI Automation Work (Enterprise)
 
 ### 🎨 VOIS Draw AI — Intelligent Architecture & Diagram Generation
 
