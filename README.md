@@ -72,6 +72,41 @@ Over the past year I've been building out a full **AI-native Quality Engineering
 </details>
 
 <details>
+<summary><b>🛡️ V.A.L.I — Vali Adversarial Lure Intelligence (10 Versions)</b> — "Understand the Adversary. Defend Better."</summary>
+<br>
+
+> A **defensive adversarial intelligence and deception research platform** designed to capture, analyze, correlate, and learn from adversarial interaction inside controlled and isolated environments. VALI evolves deception from static honeypots into an evidence-driven intelligence feedback loop spanning **deception, observation, behavioral intelligence, campaign correlation, AI-assisted analysis, safety, and adaptive defense**.
+
+* ✅ **10-version evolution** — continuously developed from deception foundations toward a long-term **Defensive Intelligence Fabric**
+* ✅ Adversarial lures, decoys, synthetic identities, synthetic data, isolated workloads, and controlled interaction environments
+* ✅ Behavioral Intelligence → interaction sequences, timing patterns, command behavior, tool fingerprints, navigation, persistence, and decision patterns
+* ✅ Campaign Intelligence → multi-session correlation, behavioral clustering, infrastructure relationships, and evidence-backed campaign discovery
+* ✅ Intelligence Graph → actors, sessions, sources, tools, behaviors, techniques, assets, campaigns, evidence, and intent
+* ✅ Evidence-Grounded AI → telemetry → evidence → retrieval → AI reasoning → hypothesis → verification → confidence → human review
+* ✅ Adaptive Deception research → behavior classification → lure selection → controlled adaptation → new interaction → new evidence
+* ✅ Deception Optimization → maximize intelligence value while minimizing exposure, operational cost, and safety risk
+* ✅ Human-AI collaboration with mandatory human oversight for consequential defensive decisions
+* ✅ **Security-first architecture** with network isolation, deny-by-default connectivity, least privilege, synthetic credentials, controlled egress, telemetry protection, and emergency containment
+* ✅ Dedicated **Threat Model** covering deception discovery, deception escape, credential exposure, telemetry manipulation, intelligence poisoning, infrastructure compromise, configuration abuse, and excessive egress
+* ✅ Dedicated **Safety Model** built around the principle: **"A compromised deception environment must not become a compromised real environment."**
+* ✅ Self-evaluating deception research loop: **Deploy → Observe → Measure → Improve**
+* ✅ Long-term roadmap toward **2030 Defensive Intelligence Fabric**
+* ✅ Designed as a research platform for continuously learning from adversarial interaction without turning that interaction into offensive activity
+
+**Research Evolution:** `V1 → V2 → V3 → V4 → V5 → V6 → V7 → V8 → V9 → V10`
+
+**Core Pipeline:**
+
+`DECEPTION → OBSERVATION → EVIDENCE → INTELLIGENCE → DEFENSE → LEARNING → ADAPTATION → DECEPTION`
+
+**Research Domains:** `Cyber Deception` `Adversarial Intelligence` `Behavioral Intelligence` `Campaign Intelligence` `AI-Assisted Security` `Knowledge Graphs` `Evidence-Grounded AI` `Adaptive Defense` `Security Architecture`
+
+**Project:** `V.A.L.I — Vali Adversarial Lure Intelligence`
+
+</details>
+
+
+<details>
 <summary><b>🖥️ PAIOS — Playwright AI Operating System</b> — an OS for Quality Engineering</summary>
 <br>
 
