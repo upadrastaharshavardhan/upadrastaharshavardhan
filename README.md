@@ -102,6 +102,7 @@ Over the past year I've been building out a full **AI-native Quality Engineering
 **Research Domains:** `Cyber Deception` `Adversarial Intelligence` `Behavioral Intelligence` `Campaign Intelligence` `AI-Assisted Security` `Knowledge Graphs` `Evidence-Grounded AI` `Adaptive Defense` `Security Architecture`
 
 **Project:** `V.A.L.I — Vali Adversarial Lure Intelligence`
+**Repo:** [V.A.L.I-Suite-V1-V10](https://github.com/upadrastaharshavardhan/V.A.L.I-Suite-V1-V10)
 
 </details>
 
@@ -141,7 +142,7 @@ Over the past year I've been building out a full **AI-native Quality Engineering
 
 **Project:** ForgeLM — Local AI Fine-Tuning & Model Intelligence Workbench
 
-**Repository:** [ForgeLM on GitHub](https://github.com/upadrastaharshavardhan/ForgeLM?utm_source=chatgpt.com)
+**Repository:** [ForgeLM](https://github.com/upadrastaharshavardhan/ForgeLM)
 
 </details>
 
