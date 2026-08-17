@@ -247,38 +247,241 @@ Over the past year I've been building out a full **AI-native Quality Engineering
 
 ## 🚀 Other AI Automation Work (VOIS / Enterprise)
 
+### 🎨 VOIS Draw AI — Intelligent Architecture & Diagram Generation
+
 <details>
-<summary><b>📊 MongoDB AI Query Agent</b> — Natural language → DB queries</summary>
+<summary><b>🎨 VOIS Draw AI</b> — "From Requirements to Visual Architecture"</summary>
 <br>
 
-- ✅ Natural language → optimized MongoDB queries, with query planning built-in
-- ✅ Used by non-technical business users — zero database expertise needed
+> An AI-powered architecture and diagram intelligence agent that transforms natural-language requirements and technical descriptions into structured visual representations.
+
+* ✅ Converts natural-language requirements into architecture diagrams
+* ✅ Generates system/component/service relationships automatically
+* ✅ Supports technical flow and process visualization
+* ✅ Helps engineering teams understand complex enterprise systems faster
+
+**Stack:** `Azure OpenAI` `LLM` `Diagram Generation` `Enterprise Architecture`
+
+</details>
+
+---
+
+### 🔗 APIGEE API Integration Agent — Intelligent API Integration
+
+<details>
+<summary><b>🔗 APIGEE API Integration Agent</b> — "Automate API Integration Engineering"</summary>
+<br>
+
+> An AI-assisted API integration agent designed to accelerate API onboarding, integration analysis, configuration, and documentation across enterprise API ecosystems.
+
+* ✅ Natural language → API integration guidance
+* ✅ Understands API specifications and integration requirements
+* ✅ Assists with API configuration and policy identification
+* ✅ Generates integration-related documentation
+* ✅ Reduces repetitive API integration engineering effort
+
+**Stack:** `Azure OpenAI` `Apigee` `REST APIs` `OpenAPI` `FastAPI`
+
+</details>
+
+---
+
+### 🌐 Edge AI WebMethods — Intelligent Integration Assistant
+
+<details>
+<summary><b>🌐 Edge AI WebMethods</b> — "AI for Enterprise Integration"</summary>
+<br>
+
+> An AI-powered assistant for understanding, designing, and accelerating enterprise integrations built around webMethods-based services and workflows.
+
+* ✅ Natural language → integration understanding
+* ✅ Assists with service and workflow analysis
+* ✅ Simplifies complex integration logic
+* ✅ Generates implementation/documentation guidance
+* ✅ Accelerates troubleshooting and development
+
+**Stack:** `Azure OpenAI` `webMethods` `LLM` `Enterprise Integration`
+
+</details>
+
+---
+
+### ⚡ Edge SpringXpert AI — Spring Engineering Copilot
+
+<details>
+<summary><b>⚡ Edge SpringXpert AI</b> — "AI Copilot for Spring Engineering"</summary>
+<br>
+
+> An AI-powered engineering assistant for analyzing Spring-based applications, understanding services, generating implementation guidance, and accelerating development activities.
+
+* ✅ Natural language → Spring implementation guidance
+* ✅ Understands Spring application structure and components
+* ✅ Assists with service/controller/repository analysis
+* ✅ Generates development recommendations
+* ✅ Accelerates troubleshooting and engineering activities
+
+**Stack:** `Azure OpenAI` `Spring Boot` `Java` `RAG` `LLM`
+
+</details>
+
+---
+
+### 🍃 MongoDBXpert AI — Intelligent MongoDB Assistant
+
+<details>
+<summary><b>🍃 MongoDBXpert AI</b> — "Natural Language → MongoDB Intelligence"</summary>
+<br>
+
+> An AI-powered MongoDB engineering assistant that enables users to understand collections, construct queries, analyze data, and interact with MongoDB using natural language.
+
+* ✅ Natural language → MongoDB query generation
+* ✅ Collection/schema understanding
+* ✅ Query explanation and optimization assistance
+* ✅ Data analysis through conversational interaction
+* ✅ Reduces dependency on manual database expertise
 
 **Stack:** `Azure OpenAI` `MongoDB` `LangChain` `FastAPI`
 
 </details>
 
+---
+
+### ☁️ AWSXpert-AI — Intelligent AWS Engineering Assistant
+
 <details>
-<summary><b>🌐 API Creation Agent</b> — Days → Hours transformation</summary>
+<summary><b>☁️ AWSXpert-AI</b> — "AI Copilot for AWS"</summary>
 <br>
 
-- ✅ Plain English → production-ready APIs with security & traffic policies auto-generated
-- ✅ Auto-generated OpenAPI/Swagger docs
+> An AI-powered AWS engineering assistant designed to simplify cloud operations, architecture understanding, troubleshooting, and infrastructure-related tasks through natural-language interaction.
 
-**Stack:** `Azure OpenAI` `FastAPI` `Docker` `Azure`
+* ✅ Natural language → AWS engineering assistance
+* ✅ AWS service and architecture understanding
+* ✅ Infrastructure and configuration guidance
+* ✅ Troubleshooting and root-cause assistance
+* ✅ Cloud engineering knowledge retrieval
+* ✅ Accelerates repetitive AWS engineering activities
+
+**Stack:** `Azure OpenAI` `AWS` `LLM` `RAG` `Cloud APIs`
 
 </details>
 
+---
+
+### 🔄 Azure CI/CD Pipeline Agent — Intelligent DevOps Automation
+
 <details>
-<summary><b>📄 Documentation → Automation Agent</b> — RAG-powered sync</summary>
+<summary><b>🔄 Azure CI/CD Pipeline Agent</b> — "AI-Powered Pipeline Intelligence"</summary>
 <br>
 
-- ✅ RAG-powered pipeline that reads documentation and continuously generates test cases and scripts
-- ✅ Stays in sync as docs evolve, with zero manual maintenance
+> An AI-powered DevOps assistant that helps engineers understand, generate, analyze, and troubleshoot Azure CI/CD pipelines.
 
-**Stack:** `RAG` `LangChain` `Azure OpenAI` `Vector DB`
+* ✅ Natural language → pipeline configuration
+* ✅ Pipeline failure analysis
+* ✅ Log interpretation and troubleshooting
+* ✅ CI/CD workflow understanding
+* ✅ Deployment and execution guidance
+* ✅ Reduces manual DevOps investigation effort
+
+**Stack:** `Azure OpenAI` `Azure DevOps` `CI/CD` `YAML` `Python`
 
 </details>
+
+---
+
+### 🧞 Edge AI Genie — Enterprise AI Engineering Assistant
+
+<details>
+<summary><b>🧞 Edge AI Genie</b> — "One AI Interface for Enterprise Engineering"</summary>
+<br>
+
+> A centralized AI assistant designed to provide intelligent access to enterprise engineering knowledge, tools, automation capabilities, and domain-specific AI agents.
+
+* ✅ Natural-language enterprise engineering assistant
+* ✅ Intelligent knowledge retrieval
+* ✅ Multi-domain engineering assistance
+* ✅ Agent/tool orchestration capabilities
+* ✅ Context-aware responses
+* ✅ Designed as an extensible enterprise AI layer
+
+**Stack:** `Azure OpenAI` `RAG` `LangChain` `Agents` `FastAPI`
+
+</details>
+
+---
+
+### 🏗️ HLD Test Architect — AI-Driven Test Architecture
+
+<details>
+<summary><b>🏗️ HLD Test Architect</b> — "From High-Level Design to Test Strategy"</summary>
+<br>
+
+> An AI-powered test architecture assistant that analyzes High-Level Design (HLD) documents and converts architectural requirements into structured testing strategies, scenarios, and automation guidance.
+
+* ✅ HLD/document → test architecture intelligence
+* ✅ Identifies components, interfaces, and dependencies
+* ✅ Generates test scenarios from architecture
+* ✅ Maps requirements → validation strategy
+* ✅ Identifies integration and risk areas
+* ✅ Supports automation planning and test design
+* ✅ Reduces manual analysis of large HLD documents
+
+**Stack:** `Azure OpenAI` `RAG` `Document Intelligence` `LangChain` `Test Automation`
+
+</details>
+
+---
+
+## 🧠 Enterprise AI Agent Ecosystem
+
+```text
+                         ┌─────────────────────────┐
+                         │      ENTERPRISE AI      │
+                         │      AGENT ECOSYSTEM    │
+                         └────────────┬────────────┘
+                                      │
+              ┌───────────────────────┼───────────────────────┐
+              │                       │                       │
+              ▼                       ▼                       ▼
+       ┌─────────────┐         ┌─────────────┐         ┌─────────────┐
+       │ Engineering │         │ Integration │         │   Testing   │
+       │    Agents   │         │    Agents   │         │    Agents   │
+       └──────┬──────┘         └──────┬──────┘         └──────┬──────┘
+              │                       │                       │
+      ┌───────┼────────┐       ┌──────┼────────┐       ┌──────┼────────┐
+      ▼       ▼        ▼       ▼      ▼        ▼       ▼      ▼        ▼
+   Spring   AWS      Azure   Apigee WebMethods MongoDB HLD    Docs    Test
+   Xpert   Xpert    CI/CD   Agent    Agent     Xpert  Architect Automation
+              │                       │                       │
+              └───────────────────────┼───────────────────────┘
+                                      ▼
+                           ┌──────────────────────┐
+                           │    EDGE AI GENIE     │
+                           │  Agent Orchestration │
+                           └──────────┬───────────┘
+                                      ▼
+                           ┌──────────────────────┐
+                           │   Azure OpenAI / LLM │
+                           │      + RAG Layer     │
+                           └──────────────────────┘
+```
+
+### 📊 AI Automation Capability Map
+
+| Agent                         | Primary Capability      | AI Pattern                  |
+| ----------------------------- | ----------------------- | --------------------------- |
+| 🎨 VOIS Draw AI               | Architecture & diagrams | LLM + Generation            |
+| 🔗 APIGEE API Integration     | API integration         | LLM + API Intelligence      |
+| 🌐 Edge AI WebMethods         | Enterprise integration  | LLM + Knowledge             |
+| ⚡ Edge SpringXpert AI         | Spring engineering      | LLM + RAG                   |
+| 🍃 MongoDBXpert AI            | Database intelligence   | LLM + Query Generation      |
+| ☁️ AWSXpert-AI                | Cloud engineering       | LLM + Cloud Knowledge       |
+| 🔄 Azure CI/CD Pipeline       | DevOps automation       | LLM + Log Intelligence      |
+| 🧞 Edge AI Genie              | Enterprise AI assistant | Agents + RAG                |
+| 🏗️ HLD Test Architect        | Test architecture       | LLM + Document Intelligence |
+| 📚 Documentation → Automation | Test generation         | RAG + Automation            |
+| 🔎 MongoDB AI Query Agent     | DB querying             | NL → Query                  |
+| 🌐 API Creation Agent         | API generation          | NL → API                    |
+
 
 ---
 
