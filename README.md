@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=800&color=00D4FF&center=true&vCenter=true&width=750&lines=Building+Agentic+AI+for+Quality+Engineering+%F0%9F%A4%96;8%2B+Open-Source+AI+QA+Systems+Shipped+in+2026+%E2%9A%A1;LangGraph+%7C+CrewAI+%7C+Playwright+%7C+Azure+OpenAI+%F0%9F%94%A7;Turning+Manual+QA+into+Autonomous+Systems+%F0%9F%A7%A0)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=800&color=00D4FF&center=true&vCenter=true&width=750&lines=Building+Agentic+AI+for+Quality+Engineering+%F0%9F%A4%96;28%2B+Open-Source+AI+QA+Systems+Shipped+in+2026+%E2%9A%A1;LangGraph+%7C+CrewAI+%7C+Playwright+%7C+Azure+OpenAI+%F0%9F%94%A7;Turning+Manual+QA+into+Autonomous+Systems+%F0%9F%A7%A0)](https://git.io/typing-svg)
 
 </div>
 
