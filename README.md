@@ -15,7 +15,7 @@
 <div align="center">
 
 [![Email](https://img.shields.io/badge/📩_Get_in_Touch-020408?style=for-the-badge&logoColor=white&color=00d4ff&labelColor=020408)](mailto:upadrastaharsha09@gmail.com)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-020408?style=for-the-badge&color=111d2b&labelColor=020408)](https://upadrastaharshavardhan.github.io/Harshavardhan/index.html)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-020408?style=for-the-badge&color=111d2b&labelColor=020408)](https://upadrastaharshavardhan.github.io/-upadrasta-harsha-vardhan/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsha-upadrasta-a33a461a2)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/upadrastaharshavardhan)
 [![Resume](https://img.shields.io/badge/⬇_Resume_2026-f0a500?style=for-the-badge&color=f0a500&labelColor=020408&logoColor=white)](https://github.com/upadrastaharshavardhan/upadrastaharshavardhan/blob/main/Harsha%20Vardhan%20Upadrasta%20Resume%202026.pdf)
